@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Tdewerdt
-- 👀 By the time you read this, hopefully RHCA certified automation engineer
+- 👀 By the time you read this, hopefully a RHCA certified automation engineer
 - 📫 How to reach me: https://www.linkedin.com/in/thijs-de-werdt-98616960/
